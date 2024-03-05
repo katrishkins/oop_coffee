@@ -1,0 +1,44 @@
+Your final order:
+
+Size of drink: s
+Amount of sugar: 1 tablespoons
+Price of this cup size: 0.25
+Tea type: Black
+Price for drink: 2.75
+-----------------------
+Size of drink: m
+Amount of sugar: 1 tablespoons
+Price of this cup size: 0.50
+Tea type: green
+Price for drink: 3.25
+-----------------------
+Size of drink: l
+Amount of sugar: 1 tablespoons
+Price of this cup size: 0.75
+Tea type: Black
+Price for drink: 3.25
+-----------------------
+Size of drink: m
+Amount of sugar: 1 tablespoons
+Price of this cup size: 0.50
+Tea type: fruit
+Price for drink: 3.5
+-----------------------
+Size of drink: s
+Amount of sugar: 1 tablespoons
+Price of this cup size: 0.25
+Coffee type: latte
+Milk type: cow
+Coffee is iced: true
+Price for drink: 3.5
+-----------------------
+Size of drink: l
+Amount of sugar: 1 tablespoons
+Price of this cup size: 0.75
+Coffee type: cappuccino
+Milk type: almond
+Coffee is iced: false
+Price for drink: 3.9
+-----------------------Your final price now is: 20.15-----------------------
+Thank you for your purchase :)
+Waiting for seeing you later!
